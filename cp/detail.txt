@@ -1,0 +1,14 @@
+friends = 3
+bottels = 4
+eachBottel = 5
+limes = 10
+slice = 8
+salt =  100
+eachNeeds = 3L drink + 1 slice + 1g salt
+
+answer = min of all three after operation
+
+
+
+
+
